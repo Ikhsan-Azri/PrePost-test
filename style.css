@@ -35,22 +35,22 @@ a:active {
 }
 
 .pertama {
-  background-color: #a4e8e0;
+  background-color: #f3e7b1;
 }
 .pertama:hover {
-  background-color: #16f1d8;
+  background-color: #f5cd1b;
 }
 .kedua {
-  background-color: #62ebab;
+  background-color: #a4f3ce;
 }
 .kedua:hover {
-  background-color: #1cf18e;
+  background-color: #07bd68;
 }
 .Ketiga {
-  background-color: #fc6868;
+  background-color: #cdb3f8;
 }
 .Ketiga:hover {
-  background-color: #fa1313;
+  background-color: #7f31fd;
 }
 
 .head-card img {
@@ -76,7 +76,6 @@ a:active {
 
 @media screen and (min-width: 550px) {
   .relative {
-    align: center;
     text-align: center;
     align-items: center;
   }
@@ -93,6 +92,11 @@ a:active {
   .card {
     width: 350px;
     margin: 0 10px;
+  }
+  .relative {
+    margin-left: 2em;
+    text-align: center;
+    align-items: center;
   }
 }
 
