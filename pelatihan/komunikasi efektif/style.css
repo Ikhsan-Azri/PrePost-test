@@ -35,22 +35,22 @@ body {
   }
   
   .pertama {
-    background-color: #a4e8e0;
+    background-color: #c0f3c0;
   }
   .pertama:hover {
-    background-color: #16f1d8;
+    background-color: #4df84d;
   }
   .kedua {
-    background-color: #62ebab;
+    background-color: #dbf8eb;
   }
   .kedua:hover {
-    background-color: #1cf18e;
+    background-color: #08a85d;
   }
   .Ketiga {
-    background-color: #fc6868;
+    background-color: #ecfcb5;
   }
   .Ketiga:hover {
-    background-color: #fa1313;
+    background-color: #e3f309;
   }
   
   .head-card img {
